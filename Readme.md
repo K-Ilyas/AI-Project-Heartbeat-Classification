@@ -45,8 +45,21 @@ cd heartbeat-classification
 
 **Correlation Matrices:**
 - **Statistical Features:**
+  
+
+![Screenshot 2024-11-26 010056](https://github.com/user-attachments/assets/05056ef8-5d30-433d-a56f-20a9e935d96b)
+
 - **Temporal Features:**
+  
+![Screenshot 2024-11-26 010109](https://github.com/user-attachments/assets/c2385102-08b4-4c56-8bf8-feb5ca1d61e3)
+
 - **Spectral Features:**
+  
+![Screenshot 2024-11-26 010423](https://github.com/user-attachments/assets/a775df23-1b46-49e7-a2d8-c9eabd93127b)
+
+
+
+
 
 ### 📌 2. Dimensionality Reduction (PCA)
 
