@@ -65,8 +65,11 @@ cd heartbeat-classification
 
 - **Cumulative Variance Explained:**
 
+![Screenshot 2024-11-27 114328](https://github.com/user-attachments/assets/9ae5e077-11c3-43db-bb45-a196b0377690)
+
 - **Data Projection After PCA:**
 
+![Screenshot 2024-11-27 114241](https://github.com/user-attachments/assets/b4c0d8ac-6d75-4027-b4f9-0f9d69e36efa)
 
 ### 📌 3. Supervised Learning Models
 
@@ -102,11 +105,22 @@ cd heartbeat-classification
 
 - **KNN Classifier:**
 
+  ![Screenshot 2024-11-27 115522](https://github.com/user-attachments/assets/2adac253-72f3-44bc-844d-ebfec3d182fd)
+
+
 - **Random Forest Classifier:**
+
+  ![Screenshot 2024-11-27 114854](https://github.com/user-attachments/assets/4b1a1f8e-cca1-44de-bbab-b1465131d2f6)
+
 
 - **K-Means Clustering:**
 
+  ![Screenshot 2024-11-27 115937](https://github.com/user-attachments/assets/4ba547a3-6359-4deb-8fcc-8e443f7e30a2)
+
+
 - **Birch Clustering:**
+
+  ![Screenshot 2024-11-27 115949](https://github.com/user-attachments/assets/fa1de4db-ced1-45e9-a757-d1947b61b254)
 
 
 ---
